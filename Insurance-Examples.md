@@ -1,17 +1,5 @@
-# README - Prompt Shields
+# Insurance Industry Use Cases
 
-## Overview
-Prompt Shields is a security solution designed to protect Generative AI models from adversarial inputs that could lead to unsafe, unethical, or non-compliant AI-generated content. It helps mitigate risks associated with user prompt attacks and document-based adversarial inputs, ensuring AI-generated content remains secure and aligned with regulatory standards.
-
-## Features
-- **User Prompt Protection**: Detects and blocks adversarial prompts designed to manipulate AI behavior.
-- **Document Shielding**: Prevents hidden malicious instructions embedded within uploaded documents.
-- **Real-time Monitoring**: Continuously evaluates and filters inputs to maintain AI integrity.
-- **Compliance Support**: Ensures adherence to ethical and regulatory standards in various industries.
-
-## Use Cases
-
-### Insurance Industry
 - **Scenario**: AI processes claims, risk assessments, and customer support inquiries.
 - **Action**: Detects attempts to manipulate AI-generated claims processing or fraudulent risk assessments.
 - **Outcome**: Strengthens fraud prevention and ensures fair, unbiased AI-driven decision-making in insurance claims and underwriting.
