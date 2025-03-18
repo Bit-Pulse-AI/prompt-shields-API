@@ -1,5 +1,8 @@
 # Insurance Industry Use Cases
 
+Demo Link
+https://claude.site/artifacts/8ac093c1-6b96-48db-bbcc-09e9115c31ea
+
 - **Scenario**: AI processes claims, risk assessments, and customer support inquiries.
 - **Action**: Detects attempts to manipulate AI-generated claims processing or fraudulent risk assessments.
 - **Outcome**: Strengthens fraud prevention and ensures fair, unbiased AI-driven decision-making in insurance claims and underwriting.
@@ -7,6 +10,8 @@
 - **Scenario**: Insurance employees use AI to review customer policies and claims.
 - **Action**: Identifies when sensitive personal or health information is inadvertently exposed in AI-generated responses.
 - **Outcome**: Prevents unauthorized sharing of personal data and strengthens data privacy compliance.
+
+![Screenshot 2025-03-18 at 22.29.16.png](<https://media-hosting.imagekit.io//e47b911d38fb4c74/Screenshot%202025-03-18%20at%2022.29.16.png?Expires=1836941929&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ZXKKBhX0262uyrHnWjkI-FGlWLd5MjmGUrzTt~8nCli-Kseib33X9NTTPBFgmgWx-82DELuUoPYAUNcXzRWp2G40-a7aca8JfzPV8yQ14YgH03He8NoaNTOUf99rhp3nHyQszlKdLRz6Ld9-mN-dVjlsEMoV9AjWuEy8RlU3DgB3e2ff3i8HdYvPDF2ChQIDlzDC~TJIa0QwhI22HlXxakkUbSidzeIdaDo4VXrFkhrZhTw9IgX5Jzf1LfOBmRQG5G4VWIBYn0i-wRKqgctX3gf~cxBqWMXQDXBLqt1e~9e6ZpWY22Pjuxxh4DHd5XBXFFZVzgIQBc9R7neTJnKAAQ__>)
 
 ## Examples:
 
