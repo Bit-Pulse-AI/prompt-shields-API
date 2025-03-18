@@ -1,7 +1,7 @@
 # Insurance Industry Use Cases
 
-Demo Link
-https://claude.site/artifacts/8ac093c1-6b96-48db-bbcc-09e9115c31ea
+Demo Link(<https://claude.site/artifacts/42b3fdd6-524a-4fd7-98ac-a5c8c6cda2da>)
+
 
 - **Scenario**: AI processes claims, risk assessments, and customer support inquiries.
 - **Action**: Detects attempts to manipulate AI-generated claims processing or fraudulent risk assessments.
